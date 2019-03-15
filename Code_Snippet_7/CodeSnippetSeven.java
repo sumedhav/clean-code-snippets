@@ -1,4 +1,4 @@
-package CodeSnippet_7;
+package Code_Snippet_7;
 
 public class CodeSnippetSeven {
 
