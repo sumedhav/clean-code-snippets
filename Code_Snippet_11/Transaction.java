@@ -2,10 +2,10 @@ package Code_Snippet_11;
 
 public class Transaction {
 
-  private int amount;
+  private float amount;
   private String transactionDate;
 
-  public Transaction(int amount, String transactionDate) {
+  public Transaction(float amount, String transactionDate) {
     this.amount = amount;
     this.transactionDate = transactionDate;
   }
